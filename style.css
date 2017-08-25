@@ -1,0 +1,43 @@
+h1{
+  text-align:center;
+  font-family: cursive;
+}
+body{
+  background-color:lightgrey;
+}
+p{
+  font-size: 20px;
+  line-height:50px;
+  font-family:fantasy;
+}
+.que{
+  box-sizing:content-box;
+  box-shadow:
+  8px 8px 10px 0px black,
+  -5px -5px 5px 0px black;
+  margin:0px 0px 0px 300px;
+  float: left;
+  background-color:white;
+  width:90px;
+  height:460px;
+  padding:40px 40px 40px 40px;
+  box-shadow: :5px 5px 5px;
+}
+.ans{
+  margin:0px 370px 0px 460px;
+    box-shadow:8px 8px 10px 0px  black,
+    -5px -5px 5px 0px black;
+  background-color:white;
+  width:500px;
+  height:460px;
+  padding:40px 40px 40px 40px;
+}
+img{
+  float:right;}
+textarea{
+  border-color:black;
+}
+a{
+  text-decoration:None;
+  color:black;
+}
